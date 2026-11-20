@@ -104,3 +104,7 @@
 - [ ] فرمِ ترکیبیِ زرد بالا/آبی چپ/قرمز راست در پایان و جام ثابت مانده است.
 
 برای کاراکترها به [DESIGN_SYSTEM](../characters/DESIGN_SYSTEM.md) و پرونده‌های [Life](../characters/life.md)، [Wisdom](../characters/wisdom.md)، [Creation](../characters/creation.md)، [Farmer 1](../characters/farmer-1.md)، [Farmer 2](../characters/farmer-2.md) و [Farmer 3](../characters/farmer-3.md) مراجعه کنید.
+
+## ۹. شیت تصویریِ ترکیب و اجزای جدا (v02)
+
+جزئیات دقیق فرم‌های سه سنگ در دو حالت «متصل» و «مستقل»، رنگ‌ها، نقش facetها، بافت Comic Halftone، چینش شیت و معیارهای پذیرش در [DESIGN_SHEET_V02.md](DESIGN_SHEET_V02.md) ثبت شده‌اند. در آن شیت، سنگ زرد بالای ترکیب، سنگ آبی پایین چپ و سنگ قرمز پایین راست قرار دارد و هر سه سنگ مستقل دقیقاً همان سیلوئتِ قطعات متصل را حفظ می‌کنند. **PNG این شیت هنوز در مخزن آپلود نشده است**؛ پس از انتقال واقعی، مسیر موردنظر `gemstone-design-sheet-v02.png` خواهد بود.
